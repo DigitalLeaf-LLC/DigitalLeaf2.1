@@ -21,4 +21,4 @@
 
 # Elastic Beanstalk Files
 /.elasticbeanstalk
-/.elasticbeanstalk/*!.elasticbeanstalk/*.cfg.yml!.elasticbeanstalk/*.global.yml# Test/test.txt
+/.elasticbeanstalk/*!.elasticbeanstalk/*.cfg.yml!.elasticbeanstalk/*.global.yml# Other
